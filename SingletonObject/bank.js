@@ -17,4 +17,4 @@ const Bank = {
     }
 }
 
-module.export = Bank;
+module.exports = Bank;
